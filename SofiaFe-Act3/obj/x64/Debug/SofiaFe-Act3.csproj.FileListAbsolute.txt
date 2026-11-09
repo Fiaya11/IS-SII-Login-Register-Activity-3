@@ -1,0 +1,11 @@
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\bin\x64\Debug\SofiaFe-Act2.exe
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\bin\x64\Debug\SofiaFe-Act2.pdb
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe-Act3.csproj.AssemblyReference.cache
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe_Act2.Dashboard.resources
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe_Act2.Login.resources
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe_Act2.Properties.Resources.resources
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe_Act2.SignUp.resources
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe-Act3.csproj.GenerateResource.cache
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe-Act3.csproj.CoreCompileInputs.cache
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe-Act2.exe
+E:\IS-SI-Act\SofiaFe\SofiaFe-Act3\obj\x64\Debug\SofiaFe-Act2.pdb
